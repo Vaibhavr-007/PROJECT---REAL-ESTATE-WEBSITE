@@ -14,4 +14,3 @@ IT IS A REAL ESTATE WEBSITE BASED ON WEB DEVELOPMENT . It includes javascript ,c
 # Completed projects page
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/90847434/171563762-3a3108c5-cc14-4b94-8780-167711e9433c.PNG">
 
-A SMALL VIDEO TO DESCRIBE MY PROJECT OVERVIEW
